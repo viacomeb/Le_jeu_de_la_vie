@@ -4,6 +4,8 @@
 #include <chrono>
 #include <thread>
 
+//version test pour commit 2
+
 using namespace std;
 
 bool Game::getMode(){
